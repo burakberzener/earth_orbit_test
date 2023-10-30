@@ -1,0 +1,11 @@
+Rotation of Earth:
+
+(if x  is north pole)
+
+x = -4.752
+y = 131.232
+z = 9.494
+
+TODO List:
+
+-Load TLE data from website (Authorize and Post)
